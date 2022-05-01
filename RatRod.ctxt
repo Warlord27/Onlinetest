@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RatRod
+comment1.params=s
+comment1.target=RatRod(java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ set()
+comment4.params=
+comment4.target=boolean\ check()
+comment5.params=s
+comment5.target=void\ main(java.lang.String[])
+numComments=6
